@@ -10,7 +10,7 @@
 import cv2
 import numpy as np
 import streamlit as st
-import tensorflow as 
+import tensorflow as tf
 #import pip
 #import selenium
 #from tensorflow import keras
