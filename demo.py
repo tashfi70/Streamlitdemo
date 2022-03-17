@@ -7,7 +7,10 @@
 #st.write("writing trial")
 
 
+import cv2
+import numpy as np
 import streamlit as st
+import tensorflow as 
 #import pip
 #import selenium
 #from tensorflow import keras
