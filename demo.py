@@ -8,6 +8,7 @@
 
 
 import streamlit as st
+import pandas as pd
 import sklearn
 import tensorflow as tf
 #import pip
