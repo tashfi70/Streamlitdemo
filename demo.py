@@ -7,8 +7,6 @@
 #st.write("writing trial")
 
 
-import cv2
-import numpy as np
 import streamlit as st
 import tensorflow as tf
 #import pip
@@ -40,7 +38,5 @@ st.write('You replied', title)
 #!pip install contractions
 
 #!pip install gensim
-
-from tensorflow import keras
 model = keras.models.load_model('model.h5')
 
